@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Bidyashish Kumar 👋
 
-<img src="https://raw.githubusercontent.com/bidyashish/bidyashish/master/bidya_banner.jpg" alt="banner that says Bidyashish Kumar - software developer, computer science engineer">
+<img src="https://raw.githubusercontent.com/bidyashish/bidyashish/master/bidya_banner.png" alt="banner that says Bidyashish Kumar - software developer, computer science engineer">
 I'm a software developer who is passionate about building things for web. Some technologies I enjoy working with include ReactJS, NodeJS, Docker, Jamstack (JavaScript, APIs + Markup) and GraphQL. Have wide expertise in various Banking, Fintech, Artificial intelligence, Consulting and E-commerce Indusrties ⚡.
 
 
